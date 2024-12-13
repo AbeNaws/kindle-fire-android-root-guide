@@ -1,5 +1,8 @@
 # Root and Install Android 6 on 1st Edition Kindle Fire
 
+Necessary files can be found [here](https://mega.nz/file/aj5liKIZ#IevpELxYBhVIS3LpPPRirmnMTQC-lIfUO8EFcMGAT7I) or [here](https://archive.org/details/kindleRaA)
+(If neither of the links work message me so I can fix them)
+
 1. What you need:
 	- First Edition Kindle Fire (2011 model)
 	- Micro USB cable (Data, not just power!)
